@@ -1,0 +1,4 @@
+verilog work "UART_TX.v"
+verilog work "UART_RX.v"
+verilog work "Binary_To_7Segment.v"
+verilog work "UART_RX_To_7_Seg_Top.v"

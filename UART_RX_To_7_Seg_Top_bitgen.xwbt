@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Xilinx\projects\.mine\UART_RX\UART_RX_To_7_Seg_Top.ncd
+OUTFILE=C:\Xilinx\projects\.mine\UART_RX\UART_RX_To_7_Seg_Top.bit
+FAMILY=Spartan3A and Spartan3AN
+PART=xc3s50a-5tq144
+WORKINGDIR=C:\Xilinx\projects\.mine\UART_RX
+LICENSE=WebPack
+USER_INFO=212256921_0_0_510

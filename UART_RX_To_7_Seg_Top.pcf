@@ -1,0 +1,30 @@
+//! **************************************************************************
+// Written by: Map P.20131013 on Mon Nov 15 19:14:12 2021
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "o_Segment_C" LOCATE = SITE "P113" LEVEL 1;
+COMP "o_Segment_D" LOCATE = SITE "P112" LEVEL 1;
+COMP "i_Clk" LOCATE = SITE "P129" LEVEL 1;
+COMP "o_Segment_E" LOCATE = SITE "P111" LEVEL 1;
+COMP "o_Segment_F" LOCATE = SITE "P110" LEVEL 1;
+COMP "o_Segment_G" LOCATE = SITE "P114" LEVEL 1;
+COMP "o_UART_TX" LOCATE = SITE "P143" LEVEL 1;
+COMP "led_enable<0>" LOCATE = SITE "P124" LEVEL 1;
+COMP "led_enable<1>" LOCATE = SITE "P121" LEVEL 1;
+COMP "led_enable<2>" LOCATE = SITE "P120" LEVEL 1;
+COMP "LED<0>" LOCATE = SITE "P46" LEVEL 1;
+COMP "LED<1>" LOCATE = SITE "P47" LEVEL 1;
+COMP "LED<2>" LOCATE = SITE "P48" LEVEL 1;
+COMP "LED<3>" LOCATE = SITE "P49" LEVEL 1;
+COMP "LED<4>" LOCATE = SITE "P50" LEVEL 1;
+COMP "LED<5>" LOCATE = SITE "P51" LEVEL 1;
+COMP "LED<6>" LOCATE = SITE "P54" LEVEL 1;
+COMP "LED<7>" LOCATE = SITE "P55" LEVEL 1;
+COMP "o_Segment_7" LOCATE = SITE "P117" LEVEL 1;
+COMP "i_UART_RX" LOCATE = SITE "P141" LEVEL 1;
+COMP "o_Segment_A" LOCATE = SITE "P116" LEVEL 1;
+COMP "o_Segment_B" LOCATE = SITE "P115" LEVEL 1;
+NET "i_Clk_BUFGP/IBUFG" PERIOD = 83.3333333 ns HIGH 50%;
+SCHEMATIC END;
+

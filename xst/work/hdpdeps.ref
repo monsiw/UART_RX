@@ -1,0 +1,6 @@
+V3 3
+FL C:/Xilinx/projects/UART_RX/UART_RX.vhd 2021/09/06.13:39:38 P.20131013
+EN work/UART_RX 1630928493 FL C:/Xilinx/projects/UART_RX/UART_RX.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/UART_RX/RTL 1630928494 \
+      FL C:/Xilinx/projects/UART_RX/UART_RX.vhd EN work/UART_RX 1630928493

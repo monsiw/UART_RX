@@ -1,0 +1,6 @@
+MO Binary_To_7Segment NULL Binary_To_7Segment.v vlg1C/_binary___to__7_segment.bin 1637000034
+MO UART_RX_To_7_Seg_Top NULL UART_RX_To_7_Seg_Top.v vlg01/_u_a_r_t___r_x___to__7___seg___top.bin 1637000034
+MO UART_RX NULL UART_RX.v vlg61/_u_a_r_t___r_x.bin 1637000034
+MO UART_TX NULL UART_TX.v vlg6B/_u_a_r_t___t_x.bin 1637000034
+EN uart_rx NULL C:/Xilinx/projects/UART_RX/UART_RX.vhd sub00/vhpl00 1630928493
+AR uart_rx rtl C:/Xilinx/projects/UART_RX/UART_RX.vhd sub00/vhpl01 1630928494

@@ -1,0 +1,5 @@
+set -tmpdir "C:/Xilinx/projects/.mine/UART_RX/xst/projnav.tmp"
+set -xsthdpdir "C:/Xilinx/projects/.mine/UART_RX/xst"
+elaborate
+-ifn Binary_To_7Segment.prj
+-ifmt mixed

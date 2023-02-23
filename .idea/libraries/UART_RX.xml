@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="UART_RX">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/UART_RX.zip!/" />
+      <root url="jar://$PROJECT_DIR$/UART_RX1.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
